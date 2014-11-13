@@ -78,7 +78,7 @@ public class TaskerDbHelper extends SQLiteOpenHelper {
 		}
 		// return task list
 		return taskList;
-	}
+	} 
 
 	// -----------the update operation----------------
 	public void updateTask(Task task) {
